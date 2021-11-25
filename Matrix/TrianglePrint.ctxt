@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TrianglePrint
+comment0.text=\n00\ 01\ 02\ 03\ **\n10\ 11\ 12\ **\ 14\n20\ 21\ **\ 23\ 24\ \n30\ **\ 32\ 33\ 34\n\ 41\ 42\ 43\ 44\ \n
+comment1.params=r\ c\ ar
+comment1.target=void\ print(int,\ int,\ int[][])
+comment2.params=r\ c\ ar
+comment2.target=void\ primary_upper_triangle(int,\ int,\ int[][])
+comment3.params=r\ c\ ar
+comment3.target=void\ primary_lower_triangle(int,\ int,\ int[][])
+comment4.params=r\ c\ ar
+comment4.target=int[][]\ generate_array(int,\ int,\ int[][])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

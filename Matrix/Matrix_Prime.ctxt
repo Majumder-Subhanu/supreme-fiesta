@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Matrix_Prime
+comment1.params=n
+comment1.target=boolean\ is_prime(int)
+comment2.params=s\ r
+comment2.target=boolean\ string_contains(java.lang.String,\ java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
